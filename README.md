@@ -3,7 +3,7 @@ Proyecto full stack desarrollado para Build Innovate Transform, creado por Mauri
 Este blog permite gestionar publicaciones, perfiles de usuario, dashboard de administración y ajustes personales, todo con un diseño moderno y responsive.
 
 # Tecnologías utilizadas
-Frontend (Angular)
+#Frontend (Angular)
 Angular 17 (standalone components)
 
 TypeScript
@@ -16,7 +16,7 @@ RouterModule para navegación
 
 Vite para servidor de desarrollo rápido
 
- Backend (Node.js + Express)
+# Backend (Node.js + Express)
 Node.js v18+
 
 Express como framework backend
